@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Gopika-1201/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
