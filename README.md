@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gopika-1201/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gopika-1201/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -26,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Gopika-1201/LeetCode/tree/master/0263-ugly-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
