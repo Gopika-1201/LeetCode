@@ -9,12 +9,10 @@ public:
         int start = 0;
         int maxLen = 1;
 
-        // Every single character is a palindrome
         for(int i = 0; i < n; i++) {
             dp[i][i] = true;
         }
 
-        // Length of substring
         for(int len = 2; len <= n; len++) {
 
             for(int i = 0; i + len <= n; i++) {
