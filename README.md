@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0942-di-string-match](https://github.com/Gopika-1201/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Gopika-1201/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Gopika-1201/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Gopika-1201/LeetCode/tree/master/0337-house-robber-iii) |
+| [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
