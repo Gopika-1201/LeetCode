@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Gopika-1201/LeetCode/tree/master/0337-house-robber-iii) |
 | [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Gopika-1201/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
