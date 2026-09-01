@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gopika-1201/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gopika-1201/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gopika-1201/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Gopika-1201/LeetCode/tree/master/0263-ugly-number) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gopika-1201/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Breadth-First Search
 |  |
 | ------- |
