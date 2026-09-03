@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Gopika-1201/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3978-unique-middle-element](https://github.com/Gopika-1201/LeetCode/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gopika-1201/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gopika-1201/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Gopika-1201/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Counting
 |  |
