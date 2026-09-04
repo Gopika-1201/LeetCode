@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gopika-1201/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gopika-1201/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Gopika-1201/LeetCode/tree/master/0263-ugly-number) |
+| [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gopika-1201/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Breadth-First Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
