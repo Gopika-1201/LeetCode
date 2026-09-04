@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Gopika-1201/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopika-1201/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0942-di-string-match](https://github.com/Gopika-1201/LeetCode/tree/master/0942-di-string-match) |
+| [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Longest Increasing Subsequence
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopika-1201/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
