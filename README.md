@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Gopika-1201/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Gopika-1201/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3978-unique-middle-element](https://github.com/Gopika-1201/LeetCode/tree/master/3978-unique-middle-element) |
 ## Math
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
