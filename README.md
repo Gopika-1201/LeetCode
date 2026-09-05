@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gopika-1201/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/Gopika-1201/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-1201/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Gopika-1201/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gopika-1201/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-1201/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3978-unique-middle-element](https://github.com/Gopika-1201/LeetCode/tree/master/3978-unique-middle-element) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Gopika-1201/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Gopika-1201/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopika-1201/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-1201/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/Gopika-1201/LeetCode/tree/master/2315-count-asterisks) |
 | [3174-clear-digits](https://github.com/Gopika-1201/LeetCode/tree/master/3174-clear-digits) |
