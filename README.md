@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Gopika-1201/LeetCode/tree/master/1035-uncrossed-lines) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gopika-1201/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Gopika-1201/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3838-weighted-word-mapping](https://github.com/Gopika-1201/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3843-first-element-with-unique-frequency](https://github.com/Gopika-1201/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3978-unique-middle-element](https://github.com/Gopika-1201/LeetCode/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gopika-1201/LeetCode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Gopika-1201/LeetCode/tree/master/2315-count-asterisks) |
 | [3174-clear-digits](https://github.com/Gopika-1201/LeetCode/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/Gopika-1201/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Gopika-1201/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Longest Increasing Subsequence
@@ -181,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Gopika-1201/LeetCode/tree/master/3174-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/Gopika-1201/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
