@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-1201/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/Gopika-1201/LeetCode/tree/master/2315-count-asterisks) |
 | [3174-clear-digits](https://github.com/Gopika-1201/LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gopika-1201/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-1201/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3838-weighted-word-mapping](https://github.com/Gopika-1201/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Gopika-1201/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Gopika-1201/LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gopika-1201/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Gopika-1201/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Gopika-1201/LeetCode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
